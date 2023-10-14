@@ -1,2 +1,0 @@
-# RaisyaH
-Data set 
